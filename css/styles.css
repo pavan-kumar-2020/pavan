@@ -1,0 +1,142 @@
+body {
+  background: #ffff;
+  color: black;
+  font-family: 'Merriweather', serif;
+}
+
+.heading {
+  font-family: 'Poppins', sans-serif;
+}
+
+.t-clr {
+  text-decoration: none;
+  color: #ffd633;
+}
+
+.bold {
+  font-weight: bolder;
+}
+
+/* BODY CSS */
+/* =============================================================================================================================== */
+.head {
+  text-decoration: none;
+  text-align: center;
+  color: black;
+}
+
+.head-text {
+  padding-top: 25px;
+  text-align: center;
+}
+
+.head:hover {
+  color: #000000;
+  cursor: pointer;
+}
+
+.oc-btn {
+  text-align: Center;
+  padding-top: 30px;
+}
+
+.btncss {
+  font-weight: bold;
+}
+
+.tile {
+  padding: 50px;
+  background-color: #ffd633;
+}
+
+.box {
+  padding: 30px;
+  margin: 1.5%;
+  background: white;
+  color: black;
+  border: 1px solid #d6d6d6;
+  box-shadow: 0 2px 3px 0px #ffd633;
+  text-align: center;
+  border-radius: 3px;
+  transition: .2s all;
+}
+
+.box:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+/* FOOTER CSS */
+/* --------------------------------------------------------------------------------------------------------------------------------- */
+.new_footer_area {
+  background: #ffff;
+}
+
+.new_footer_top {
+  padding: 120px 0px 270px;
+  position: relative;
+  overflow-x: hidden;
+}
+
+.new_footer_area .footer_bottom {
+  padding-top: 5px;
+  padding-bottom: 50px;
+}
+
+.f_list {
+  list-style: none;
+}
+
+.hbtn:hover {
+  transform: scale(1.1) translateX(25px);
+}
+
+.footer_bottom {
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 20px;
+  color: black;
+  padding: 27px 0px;
+}
+
+.new_footer_top .f-title {
+  color: black;
+}
+
+.f_600 {
+  font-weight: 600;
+}
+
+.f_contact {
+  padding-top: 50px;
+  text-align: center;
+}
+
+.f_size_18 {
+  font-size: 18px;
+}
+
+.new_footer_top .f_widget.about-widget .f_list li a {
+  color: #000000;
+}
+
+.new_footer_top .footer_bg {
+  position: absolute;
+  bottom: 0;
+  background: url("http://droitthemes.com/html/saasland/img/seo/footer_bg.png") no-repeat scroll center 0;
+  width: 100%;
+  height: 266px;
+}
+
+.new_footer_top .footer_bg .footer_bg_two {
+  background: url("https://1.bp.blogspot.com/-hjgfxUW1o1g/Xck--XOdlxI/AAAAAAAAT_4/JWYFJl83usgRFMvRfoKkSDGd--_Sv04UQCLcBGAsYHQ/s1600/cyclist.gif") no-repeat center center;
+  width: 95px;
+  height: 100px;
+  background-size: 100%;
+  bottom: 0;
+  left: 50%;
+  position: absolute;
+}
+
+/* FOOTER CSS END */
+/* ------------------------------------------------------------------------------------------------------------------------------------------ */
